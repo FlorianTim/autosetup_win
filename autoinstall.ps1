@@ -1,4 +1,5 @@
-﻿Write-Host "script root: $PSScriptRoot";
+﻿Set-ExecutionPolicy Bypass;
+Write-Host "script root: $PSScriptRoot";
 
 If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {   
 
