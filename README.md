@@ -1,0 +1,1 @@
+autosetup_windows
