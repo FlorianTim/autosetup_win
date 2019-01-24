@@ -9,14 +9,14 @@ If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 }
 
 # standard
-choco upgrade -y "$PSScriptRoot\standard\browser.config"
-choco upgrade -y "$PSScriptRoot\standard\com.config"
-choco upgrade -y "$PSScriptRoot\standard\foto.config"
-choco upgrade -y "$PSScriptRoot\standard\mail.config"
-choco upgrade -y "$PSScriptRoot\standard\media.config"
-choco upgrade -y "$PSScriptRoot\standard\office.config"
-choco upgrade -y "$PSScriptRoot\standard\tools.config"
-choco upgrade -y "$PSScriptRoot\standard\system.config"
+choco install -y "$PSScriptRoot\standard\browser.config"
+choco install -y "$PSScriptRoot\standard\com.config"
+choco install -y "$PSScriptRoot\standard\foto.config"
+choco install -y "$PSScriptRoot\standard\mail.config"
+choco install -y "$PSScriptRoot\standard\media.config"
+choco install -y "$PSScriptRoot\standard\office.config"
+choco install -y "$PSScriptRoot\standard\tools.config"
+choco install -y "$PSScriptRoot\standard\system.config"
 
 Write-Host -NoNewLine "Press any key to continue...";
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown");
