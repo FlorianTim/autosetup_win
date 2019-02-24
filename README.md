@@ -6,11 +6,11 @@ Ich verwende dieses Skript zur Einrichtung der Computer von Verwandten und Freun
 
 # Verwendung 
 ## Einrichtung:
-Markiert die Datei install_chocolatey.bat, haltet die Umschalttaste (Shift-Taste) gedrückt und wählt „Als Administrator ausführen“ aus. Den nachfolgenden Dialog bestätigt ihr mit Ja.
+Markiert die Datei **install_chocolatey.bat**, haltet die Umschalttaste (Shift-Taste) gedrückt und wählt „Als Administrator ausführen“ aus. Den nachfolgenden Dialog bestätigt ihr mit Ja.
 ## Installation der Programme:
 Markiert die Datei install_standard.bat, haltet die Umschalttaste (Shift-Taste) gedrückt und wählt „Als Administrator ausführen“ aus. Den nachfolgenden Dialog bestätigt ihr mit Ja. Gegeben falls ist der Neustart des Computers nach der Installation sinnvoll.
 ## Update der Programme (Optional):
 Markiert die Datei upgrade.bat, haltet die Umschalttaste (Shift-Taste) gedrückt und wählt „Als Administrator ausführen“ aus. Den nachfolgenden Dialog bestätigt ihr mit Ja.
 
 # Beitragen:
-Kennt ihr noch weitere (kostenfreie) nützliche Programme? Verbesserungsvorschläge sind immer willkommen. Erzeugt einfach eine Issue oder stellt mir einen Pull-Request.
+Kennt ihr noch weitere (kostenfreie) nützliche Programme? Verbesserungsvorschläge sind immer willkommen. Erzeugt einfach einen Issue oder stellt mir einen Pull-Request.
