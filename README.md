@@ -7,6 +7,8 @@ Ich verwende dieses Skript zur Einrichtung der Computer von Verwandten und Freun
 # Verwendung 
 ## Einrichtung:
 Markiert die Datei **install_chocolatey.bat**, haltet die Umschalttaste (Shift-Taste) gedrückt und wählt „Als Administrator ausführen“ aus. Den nachfolgenden Dialog bestätigt ihr mit Ja.
+![install](https://github.com/FlorianTim/autosetup_windows/wiki/img/setup/Step_001.png)
+
 ## Installation der Programme:
 Markiert die Datei **install_standard.bat**, haltet die Umschalttaste (Shift-Taste) gedrückt und wählt „Als Administrator ausführen“ aus. Den nachfolgenden Dialog bestätigt ihr mit Ja. Gegeben falls ist der Neustart des Computers nach der Installation sinnvoll.
 ## Update der Programme (Optional):
