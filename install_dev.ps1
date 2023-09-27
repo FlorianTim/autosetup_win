@@ -9,6 +9,7 @@ If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 }
 
 # Dev
+choco install -y "$PSScriptRoot\dev\wsl2.config"
 choco install -y "$PSScriptRoot\dev\atom.config"
 choco install -y "$PSScriptRoot\dev\c_and_cpp.config"
 choco install -y "$PSScriptRoot\dev\git.config"
